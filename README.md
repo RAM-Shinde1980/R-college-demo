@@ -1,3 +1,3 @@
 # R-college-demo
-its my first project on github
-my Ramji Shinde
+its my first project on github<br>
+my name is Ramji Shinde
